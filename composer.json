@@ -1,0 +1,12 @@
+{
+	"name": "phpforge/module-error",
+	"description": "Error Module",
+	"type": "phpforge-module",
+	"autoload": {
+		"psr-0": {"Error": "src/"}
+	},
+	"require": {
+
+	},
+	"disable": false
+}
